@@ -1,5 +1,4 @@
 package net.stanleymburu.employeemanagementbackend.model;
-
 import javax.persistence.*;
 
 @Entity
